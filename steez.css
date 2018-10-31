@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Arbutus+Slab|Righteous');
+
+
+h1, h2, h4 {font-family: 'Righteous',cursive;}
+
+h1 {font-size: 80px;}
+
+p {font-family: 'Arbutus Slab', serif;}
+
+
+body {background-image: image(images/fo.jpg);
+      background-color: #ce0000;
+     }
+
+div {background-color: white;
+     padding-top: 10px;
+     padding-left: 5px;
+}
+
+
+.container {
+  background-color: white;
+  padding: 30px;
+}
+
+.cabe {text-align: center;
+      padding-top: 5px;
+      padding-bottom: 10px;
+      }
+
+
+.ahre {text-align: center;}
+
+
+.line {border-top: 3px solid #989898;
+       padding-top: 10px;
+      }
+
+.button {font-family: 'Arbutus Slab', serif;}
+
+.button:hover {background-color: #e8b000;
+               color: white;
+               }
